@@ -18,7 +18,7 @@ cd Research/video_upscale
 Now, pull the Docker image needed for the upscaling process:
 
 ```bash
-docker pull krntl/videoupscale:24_10_08
+docker pull krntl/videoupscale:24_10_18
 ```
 
 ### 2. Download engine

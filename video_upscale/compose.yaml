@@ -4,7 +4,7 @@ services:
   vsgan_tensorrt:
     stdin_open: true 
     tty: true        
-    image: krntl/videoupscale:24_10_08 
+    image: krntl/videoupscale:24_10_18 
     volumes:
       # Replace /root/inputs with the path to your inputs folder
       - /root/inputs:/workspace/tensorrt/inputs
